@@ -5,3 +5,6 @@ Package lfs partially implements the [luafilesystem module](http://keplerproject
 ## License
 
 Public domain.
+
+##说明
+增加windows版本的支持，去掉一个不明白的import
